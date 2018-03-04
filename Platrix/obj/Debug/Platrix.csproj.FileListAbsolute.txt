@@ -1,0 +1,61 @@
+c:\users\arxflay\documents\visual studio 2012\Projects\Platrix\Platrix\bin\Debug\Platrix.exe.config
+c:\users\arxflay\documents\visual studio 2012\Projects\Platrix\Platrix\bin\Debug\Platrix.exe
+c:\users\arxflay\documents\visual studio 2012\Projects\Platrix\Platrix\bin\Debug\Platrix.pdb
+c:\users\arxflay\documents\visual studio 2012\Projects\Platrix\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+c:\users\arxflay\documents\visual studio 2012\Projects\Platrix\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+c:\users\arxflay\documents\visual studio 2012\Projects\Platrix\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+c:\users\arxflay\documents\visual studio 2012\Projects\Platrix\Platrix\obj\Debug\Platrix.exe
+c:\users\arxflay\documents\visual studio 2012\Projects\Platrix\Platrix\obj\Debug\Platrix.pdb
+c:\users\arxflay\documents\visual studio 2012\Projects\Platrix\Platrix\obj\Debug\Platrix.Game.resources
+C:\Projects\Platrix\Platrix\bin\Debug\Platrix.exe.config
+C:\Projects\Platrix\Platrix\bin\Debug\Platrix.exe
+C:\Projects\Platrix\Platrix\bin\Debug\Platrix.pdb
+C:\Projects\Platrix\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+C:\Projects\Platrix\Platrix\obj\Debug\Platrix.Game.resources
+C:\Projects\Platrix\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+C:\Projects\Platrix\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+C:\Projects\Platrix\Platrix\obj\Debug\Platrix.csproj.CoreCompileInputs.cache
+C:\Projects\Platrix\Platrix\obj\Debug\Platrix.exe
+C:\Projects\Platrix\Platrix\obj\Debug\Platrix.pdb
+C:\Projects\Platrix\Platrix\obj\Debug\Platrix.ChangeKey.resources
+G:\Platrix\Platrix\bin\Debug\Platrix.exe.config
+G:\Platrix\Platrix\obj\Debug\Platrix.exe
+G:\Platrix\Platrix\obj\Debug\Platrix.pdb
+G:\Platrix\Platrix\bin\Debug\Platrix.exe
+G:\Platrix\Platrix\bin\Debug\Platrix.pdb
+G:\Platrix\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+G:\Platrix\Platrix\obj\Debug\Platrix.ChangeKey.resources
+G:\Platrix\Platrix\obj\Debug\Platrix.Game.resources
+G:\Platrix\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+G:\Platrix\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\bin\Debug\Platrix.exe.config
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\obj\Debug\Platrix.exe
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\obj\Debug\Platrix.pdb
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\obj\Debug\Platrix.ChangeKey.resources
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\obj\Debug\Platrix.Game.resources
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\bin\Debug\Platrix.exe
+K:\2.AI\ZOOP(C#)\Platrix\Platrix\bin\Debug\Platrix.pdb
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\bin\Debug\Platrix.exe.config
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\bin\Debug\Platrix.exe
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\bin\Debug\Platrix.pdb
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.ChangeKey.resources
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.Game.resources
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.exe
+K:\2.AI\ZOOP(C#)\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.pdb
+E:\Platrix (Buggy build)\Platrix\bin\Debug\Platrix.exe.config
+E:\Platrix (Buggy build)\Platrix\bin\Debug\Platrix.exe
+E:\Platrix (Buggy build)\Platrix\bin\Debug\Platrix.pdb
+E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.ChangeKey.resources
+E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.Game.resources
+E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.csproj.CoreCompileInputs.cache
+E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.exe
+E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.pdb
