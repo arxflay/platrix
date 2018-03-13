@@ -59,3 +59,59 @@ E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
 E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.csproj.CoreCompileInputs.cache
 E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.exe
 E:\Platrix (Buggy build)\Platrix\obj\Debug\Platrix.pdb
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\bin\Debug\Platrix.exe.config
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\bin\Debug\Platrix.exe
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\bin\Debug\Platrix.pdb
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\obj\Debug\Platrix.Game.resources
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\obj\Debug\Platrix.csproj.CoreCompileInputs.cache
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\obj\Debug\Platrix.exe
+C:\Users\ArxFlay\Desktop\platrix-master\Platrix\obj\Debug\Platrix.pdb
+G:\platrix-master\Platrix\bin\Debug\Platrix.exe.config
+G:\platrix-master\Platrix\obj\Debug\Platrix.exe
+G:\platrix-master\Platrix\obj\Debug\Platrix.pdb
+G:\platrix-master\Platrix\bin\Debug\Platrix.exe
+G:\platrix-master\Platrix\bin\Debug\Platrix.pdb
+G:\platrix-master\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+G:\platrix-master\Platrix\obj\Debug\Platrix.Game.resources
+G:\platrix-master\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+G:\platrix-master\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+E:\platrix-master\Platrix\bin\Debug\Platrix.exe.config
+E:\platrix-master\Platrix\bin\Debug\Platrix.exe
+E:\platrix-master\Platrix\bin\Debug\Platrix.pdb
+E:\platrix-master\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+E:\platrix-master\Platrix\obj\Debug\Platrix.Game.resources
+E:\platrix-master\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+E:\platrix-master\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+E:\platrix-master\Platrix\obj\Debug\Platrix.csproj.CoreCompileInputs.cache
+E:\platrix-master\Platrix\obj\Debug\Platrix.exe
+E:\platrix-master\Platrix\obj\Debug\Platrix.pdb
+F:\platrix-master\Platrix\bin\Debug\Platrix.exe.config
+F:\platrix-master\Platrix\bin\Debug\Platrix.exe
+F:\platrix-master\Platrix\bin\Debug\Platrix.pdb
+F:\platrix-master\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+F:\platrix-master\Platrix\obj\Debug\Platrix.Game.resources
+F:\platrix-master\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+F:\platrix-master\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+F:\platrix-master\Platrix\obj\Debug\Platrix.exe
+F:\platrix-master\Platrix\obj\Debug\Platrix.pdb
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix\Platrix\bin\Debug\Platrix.exe.config
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix\Platrix\obj\Debug\Platrix.exe
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix\Platrix\obj\Debug\Platrix.pdb
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix\Platrix\bin\Debug\Platrix.exe
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix\Platrix\bin\Debug\Platrix.pdb
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix\Platrix\obj\Debug\Platrix.Game.resources
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix – kopie\Platrix\bin\Debug\Platrix.exe.config
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix – kopie\Platrix\obj\Debug\Platrix.exe
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix – kopie\Platrix\obj\Debug\Platrix.pdb
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix – kopie\Platrix\bin\Debug\Platrix.exe
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix – kopie\Platrix\bin\Debug\Platrix.pdb
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix – kopie\Platrix\obj\Debug\Platrix.csprojResolveAssemblyReference.cache
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix – kopie\Platrix\obj\Debug\Platrix.Game.resources
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix – kopie\Platrix\obj\Debug\Platrix.Properties.Resources.resources
+K:\2.AI\ZOOP(C#)\Platformer game - Platrix – kopie\Platrix\obj\Debug\Platrix.csproj.GenerateResource.Cache
